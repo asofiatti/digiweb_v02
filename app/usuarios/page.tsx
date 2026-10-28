@@ -1,9 +1,5 @@
 'use client';
 
-// Desativa a validação estrita de navegação instantânea para esta rota dinâmica
-//export const instant = false;
-
-
 import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import { 
